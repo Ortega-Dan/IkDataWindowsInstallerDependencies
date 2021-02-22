@@ -26,9 +26,9 @@ ____________________________________________________________________
 
 
 
-# IkDataWindowsInstallerDependencies
+# Legacy info:
 
-App releases were produced as:
+App releases were published as:
 
 
 ![](00.png)
