@@ -15,7 +15,7 @@ https://github.com/tesseract-ocr/tesseract/blob/master/LICENSE
 * GraphicsMagick is distributed with the permision of the MIT license, which requires notice and a copy of the license, for the specifics see: 
 https://opensource.org/licenses/MIT
 
-* ZbarImg (Zbar) is distributed under LGPL licence v2.1 which allows for distribution of closed source apps that just link or use Zbar, but require distribution of licence and sour code **OF ZBAR**, for the specifics:
+* ZbarImg (Zbar) is distributed under LGPL licence v2.1 which allows for distribution of closed source apps that just link or use Zbar, but require distribution of licence and source code **OF ZBAR**, for the specifics:
 http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html \
 (info and sources of zbar are found, depending on the version, here https://github.com/mchehab/zbar \
 or here https://sourceforge.net/projects/zbar/)
