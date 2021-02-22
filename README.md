@@ -1,3 +1,5 @@
 # IkDataWindowsInstallerDependencies
 
-Hashes are SHA1 and MD5 respectively
+Hashes are MD5 a SHA1 respectively
+
+as produced by rhash -HM package.extension
