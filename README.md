@@ -4,7 +4,9 @@
 Find more information here:\
 ![](gs.png)
 Which is found on section 3 in here: https://www.ghostscript.com/doc/current/Commprod.htm.
-And the AGPL v3 can be found here: https://github.com/Ortega-Dan/aGPLlicenseReader/blob/main/LICENSE
+And the AGPL v3 can be found here: https://github.com/Ortega-Dan/aGPLlicenseReader/blob/main/LICENSE \
+(For PDF support, the end user can use any PostScript interpreter of their choice given the executable is found in the path and its name is gswin64c.exe, or the user can follow the optional recomendation 4 paragraphs instructions by GraphicsMagick prerequisites from: http://www.graphicsmagick.org/INSTALL-windows.html#prerequisites \
+and make sure the gswin64c.exe parent directory is found in the Windows OS Path environtment variable)
 
 * ImageMagick can be distributed, and must include notice and a copy of the licence, it is derived of Apache 2.0, for the specifics its license is here:
 https://imagemagick.org/script/license.php
