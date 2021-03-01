@@ -1,7 +1,7 @@
 # On Licensing things:
 
-* **Gostscript must NOT be distributed in the same media as the application using it, because of its AGPL and their clarification of it**\
-Find more information here\
+* **Gostscript-AGPL must NOT be distributed in the same media as the application using it, because of its AGPL and their clarification of it.**\
+Find more information here:\
 ![](gs.png)
 Which is found on section 3 in here: https://www.ghostscript.com/doc/current/Commprod.htm.
 And the AGPL v3 can be found here: https://github.com/Ortega-Dan/aGPLlicenseReader/blob/main/LICENSE
@@ -19,32 +19,3 @@ https://opensource.org/licenses/MIT
 http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html \
 (info and sources of zbar are found, depending on the version, here https://github.com/mchehab/zbar \
 or here https://sourceforge.net/projects/zbar/)
-
-
-____________________________________________________________________
-
-
-
-
-# Legacy info:
-
-App releases were published as:
-
-
-![](00.png)
-
-(release title must always be app, and tag version must be the version preceded by 'app-v')
-![](11.png)
-
-Naming of jars must be as follows
-![](22.png)
-
-___
-
-For all hashes, those are MD5 and SHA1 respectively
-
-as produced by rhash -HM package.extension\
-e.g:
-
-
-![](33.png)
